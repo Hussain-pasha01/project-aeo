@@ -242,7 +242,7 @@
                                             GPS integration for location-aware operations</div>
                                         <div
                                             class="relative before:content-['-'] before:absolute before:left-0 text-gray-500 pl-4">
-                                            Custom workflows for inspections, deliveries, and audits</div>
+                                            Custom workflows for inspections, deliveries,</div>
                                     </div>
                                 </div>
                             </div>
